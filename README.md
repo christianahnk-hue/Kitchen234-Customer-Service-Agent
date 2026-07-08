@@ -1,4 +1,4 @@
-# Kitchen234 Voice Agent — Nike 🇳🇬
+# Kitchen234 Voice Agent — Nike
 
 AI voice agent for **Kitchen234**, an authentic Nigerian restaurant in Austin, TX. **Nike** answers every call to the restaurant — takes orders, answers menu questions, checks order status, and handles complaints with warm Naija hospitality. Humans only step in on transfer.
 
